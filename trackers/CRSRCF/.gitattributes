@@ -1,0 +1,4 @@
+*.h linguist-language=matlab
+*.hpp linguist-language=matlab
+*.c linguist-language=matlab
+*.cpp linguist-language=matlab
